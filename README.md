@@ -1,4 +1,4 @@
-# Custom Linked List in Java
+# Linked List in Java
 
 This project demonstrates a basic implementation of a **singly linked list** in Java using generics. It includes features like adding/removing from head and tail, deleting specific items, checking contents, and printing the list.
 
